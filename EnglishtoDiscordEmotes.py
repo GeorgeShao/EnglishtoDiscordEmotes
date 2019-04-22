@@ -100,7 +100,6 @@ if __name__ == "__main__":
 
     widget = MyWidget()
     widget.resize(800, 300)
-    
     widget.setFixedSize(800, 300)
     widget.show()
 

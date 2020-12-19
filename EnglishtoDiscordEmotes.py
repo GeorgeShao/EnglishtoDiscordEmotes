@@ -51,7 +51,7 @@ class MyWidget(QWidget):
             elif char == "h":
                 output = output + " :regional_indicator_h:"
             elif char == "i":
-                output = output + " :regional_indicator_u:"
+                output = output + " :regional_indicator_i:"
             elif char == "j":
                 output = output + " :regional_indicator_j:"
             elif char == "k":
